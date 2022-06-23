@@ -1,2 +1,2 @@
 # AI-JARVIS-PYTHON
-Working AI system using Python
+Working design Jarvis’s Algorithm using machine learning in Python. Not so much like the amazing Iron man Jarvis due to the additional customizations and optiosn to do additional things.
